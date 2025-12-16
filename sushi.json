@@ -3,21 +3,70 @@
     "id": 1,
     "name": "Филадельфия",
     "price": 450,
-    "image": "1",
+    "image": "sushi_1",
     "description": "Лосось, сливочный сыр, рис"
   },
   {
     "id": 2,
     "name": "Калифорния",
     "price": 400,
-    "image": "2",
+    "image": "sushi_2",
     "description": "Краб, авокадо, огурец"
   },
   {
     "id": 3,
     "name": "Дракон",
     "price": 520,
-    "image": "3",
+    "image": "sushi_3",
     "description": "Угорь, соус унаги"
+  },
+  {
+    "id": 4,
+    "name": "Унаги маки",
+    "price": 480,
+    "image": "sushi_4",
+    "description": "Угорь, рис, нори"
+  },
+  {
+    "id": 5,
+    "name": "Эби маки",
+    "price": 430,
+    "image": "sushi_5",
+    "description": "Креветка, рис, нори"
+  },
+  {
+    "id": 6,
+    "name": "Спайси тунец",
+    "price": 500,
+    "image": "sushi_6",
+    "description": "Тунец, острый соус"
+  },
+  {
+    "id": 7,
+    "name": "Футомаки",
+    "price": 460,
+    "image": "sushi_7",
+    "description": "Овощи, рис, нори"
+  },
+  {
+    "id": 8,
+    "name": "Сяке маки",
+    "price": 420,
+    "image": "sushi_8",
+    "description": "Лосось, рис, нори"
+  },
+  {
+    "id": 9,
+    "name": "Ролл с угрём",
+    "price": 540,
+    "image": "sushi_9",
+    "description": "Угорь, сыр, соус унаги"
+  },
+  {
+    "id": 10,
+    "name": "Темпура ролл",
+    "price": 560,
+    "image": "sushi_10",
+    "description": "Жареный ролл, соус спайси"
   }
 ]
